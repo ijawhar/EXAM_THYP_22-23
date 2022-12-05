@@ -1,0 +1,58 @@
+{
+  "@context": "http://localhost/omeka-s/api-context",
+  "@id": "http://localhost/omeka-s/api/items/13",
+  "@type": [
+    "o:Item",
+    "rrc:Etude"
+  ],
+  "o:id": 13,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://localhost/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://localhost/omeka-s/api/resource_classes/118",
+    "o:id": 118
+  },
+  "o:resource_template": {
+    "@id": "http://localhost/omeka-s/api/resource_templates/8",
+    "o:id": 8
+  },
+  "o:thumbnail": null,
+  "o:title": "Science Experimentale",
+  "thumbnail_display_urls": {
+    "large": null,
+    "medium": null,
+    "square": null
+  },
+  "o:created": {
+    "@value": "2022-12-05T08:47:31+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2022-12-05T08:47:31+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [],
+  "o:site": [],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Science Experimentale"
+    }
+  ],
+  "rrc:Competence": [
+    {
+      "type": "literal",
+      "property_id": 204,
+      "property_label": "Competences",
+      "is_public": true,
+      "@value": "Oui\n"
+    }
+  ]
+}
