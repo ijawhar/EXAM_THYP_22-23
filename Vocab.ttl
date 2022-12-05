@@ -37,7 +37,7 @@ rrc:Competence a rdf:Property ;
     vs:term_status "environement" .
 
 rrc:Science a rdf:Property ;
-    rdfs:label "" ;
+    rdfs:label "Sciences" ;
     rdfs:domain o:Recherche ;
     vs:term_status "environement" .
 
